@@ -1,0 +1,16 @@
+{
+  "name": "exe_tdd_aula09",
+  "version": "1.0.0",
+  "description": "Exercicio Aula 09 - TDD",
+  "main": "test.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Tiago Carvalho",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.4",
+    "chai-http": "^4.3.0",
+    "mocha": "^8.3.2"
+  }
+}

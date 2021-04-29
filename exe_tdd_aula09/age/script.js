@@ -1,0 +1,1 @@
+module.exports.ageCalc = (yearCurrent , yearBirth) => yearCurrent - yearBirth;
